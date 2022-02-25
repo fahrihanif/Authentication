@@ -54,7 +54,7 @@ namespace Authentication
             Console.Write("Masukan Nama : ");
             string name = Console.ReadLine();
 
-            searchedList = listUsers.Where(i => i.FirstName.Contains(name) || i.LastName.Contains(name))
+            searchedList = listUsers.Where(i => i.FirstName.ToLower().Contains(name.ToLower()) || i.LastName.ToLower().Contains(name.ToLower()))
                 .Select(g => new User
                 {
                     FirstName = g.FirstName,
