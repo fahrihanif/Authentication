@@ -74,9 +74,17 @@ namespace Authentication
             return kataSandi;
         }
 
-        public string UserAuth(string userName)
+        public bool UserAuth(List<User> users, string userName)
         {
-            return userName;
+            for (int i = 0; i < users.Count; i++)
+            {
+                if (users[i].UserName == userName)
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
     }
 }

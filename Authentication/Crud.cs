@@ -8,15 +8,14 @@ namespace Authentication
         public string Create(List<User> users, User user)
         {
             Auth auth = new Auth();
-            if (users.Contains(user))
-            {
-                auth.UserAuth(user.UserName);
-                return Success("Create", "Username");
-            }
-            else
+            if (auth.UserAuth(users, user.UserName) == false)
             {
                 users.Add(user);
                 return Success("Created");
+            }
+            else
+            {
+                return Success("Create", "Username");
             }
         }
 
@@ -63,7 +62,7 @@ namespace Authentication
         }
         private string Success(string value)
         {
-            return $"User Has Been {value}!!!";
+            return $"User Success to {value}!!!";
         }
         private string Success(string value, string error)
         {

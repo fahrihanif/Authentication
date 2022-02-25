@@ -79,7 +79,7 @@ namespace Authentication
 
             User user = new User(namaDepan, namaAkhir, kataSandi);
 
-            crud.Create(listUser, user);
+            Console.WriteLine(crud.Create(listUser, user));
             Console.ReadKey();
             App();
         }
