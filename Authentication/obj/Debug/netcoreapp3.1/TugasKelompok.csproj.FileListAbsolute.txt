@@ -1,0 +1,14 @@
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.csproj.AssemblyReference.cache
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.AssemblyInfoInputs.cache
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.AssemblyInfo.cs
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.csproj.CoreCompileInputs.cache
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.exe
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.deps.json
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.runtimeconfig.json
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.runtimeconfig.dev.json
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.dll
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\bin\Debug\netcoreapp3.1\TugasKelompok.pdb
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.dll
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.pdb
+D:\Kuliah\Project\VisualStudio\TugasKelompok\TugasKelompok\obj\Debug\netcoreapp3.1\TugasKelompok.genruntimeconfig.cache

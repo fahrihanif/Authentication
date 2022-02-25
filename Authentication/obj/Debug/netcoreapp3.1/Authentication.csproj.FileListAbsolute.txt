@@ -1,0 +1,14 @@
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.exe
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.deps.json
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.runtimeconfig.json
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.runtimeconfig.dev.json
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.dll
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\bin\Debug\netcoreapp3.1\Authentication.pdb
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.AssemblyReference.cache
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfoInputs.cache
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfo.cs
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.CoreCompileInputs.cache
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb
+D:\Kuliah\Project\VisualStudio\Authentication\Authentication\obj\Debug\netcoreapp3.1\Authentication.genruntimeconfig.cache
